@@ -1,4 +1,4 @@
-import Item, {ItemNamesEnum} from './Item'
+import { Item, ItemNamesEnum } from './Item'
 
 
 
